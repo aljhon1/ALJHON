@@ -38,12 +38,12 @@ CSS
 I focus on creating visually appealing website designs by selecting colors, typography, and imagery that enhance the user experience. By ensuring a cohesive layout and clear visual hierarchy, I aim to make the site both attractive and easy to navigate, improving engagement and functionality.
 
 
-## Skills
+# Skills
 - Web Development
 - Data Analysis
 - Graphic Design
 
-## Projects
+# Projects
 •System 
 ![Project Screenshot](Screenshot_20241204_132150.jpg)
 •Scratch 
@@ -51,7 +51,7 @@ I focus on creating visually appealing website designs by selecting colors, typo
 
   
 
-## Contact
+# Contact
 - Email: aljhonindolos90k@gmail.com
 - Phone: 09977228834
 - Address: Ormoc City 
