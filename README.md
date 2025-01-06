@@ -9,6 +9,8 @@ Looking ahead, my eager to gain hands-on experience through internships and expl
 
 
 # services 
+<p align="leftp">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
 HTML
 I design well-organized, user-friendly website structures with clear layouts and navigation. By focusing on intuitive menus, consistent design, and easy-to-find content, I aim to create a seamless and efficient browsing experience for users.
 
