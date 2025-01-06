@@ -8,7 +8,23 @@ As a second-year IT student at Eastern Visayas State University (EVSU), building
 My passion for learning goes beyond the classroom. My actively explore new technologies, participate in online courses, and engage with tech communities to stay up to date and expand my knowledge in areas like cloud computing and AI.
 
 Looking ahead, my eager to gain hands-on experience through internships and explore specialized areas like cybersecurity and data science. My commitment to continuous learning and growth positions to become a well-rounded and successful IT professional.
+# Skills
+- Web Development
+- Data Analysis
+- Graphic Design
 
+# Projects
+•System 
+![Project Screenshot](Screenshot_20241204_132150.jpg)
+•Scratch 
+![Description](Screenshot_20250106_174633.jpg)
+
+  
+
+# Contact
+- Email: aljhonindolos90k@gmail.com
+- Phone: 09977228834
+- Address: Ormoc City 
 
 # services 
 <p align="leftp">
@@ -34,7 +50,7 @@ I implement interactive features on websites, such as buttons, forms, and animat
 <p align="leftp">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 
-CSS
+ CSS
 I focus on creating visually appealing website designs by selecting colors, typography, and imagery that enhance the user experience. By ensuring a cohesive layout and clear visual hierarchy, I aim to make the site both attractive and easy to navigate, improving engagement and functionality.
 
 
@@ -55,4 +71,4 @@ I focus on creating visually appealing website designs by selecting colors, typo
 - Email: aljhonindolos90k@gmail.com
 - Phone: 09977228834
 - Address: Ormoc City 
-- 
+  
