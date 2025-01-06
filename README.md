@@ -12,7 +12,7 @@ Looking ahead, my eager to gain hands-on experience through internships and expl
 HTML
 I design well-organized, user-friendly website structures with clear layouts and navigation. By focusing on intuitive menus, consistent design, and easy-to-find content, I aim to create a seamless and efficient browsing experience for users.
 
-
+<p align="leftp">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   
