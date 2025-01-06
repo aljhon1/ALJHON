@@ -42,6 +42,8 @@ I focus on creating visually appealing website designs by selecting colors, typo
 - Graphic Design
 
 ## Projects
+![Project Screenshot](Screenshot_20241204_132150.jpg)
+
 - **[Project 1](#)**: Brief description of the project.
 - **[Project 2](#)**: Brief description of the project.
 
