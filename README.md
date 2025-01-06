@@ -21,8 +21,16 @@ I design well-organized, user-friendly website structures with clear layouts and
 PYTHON
 I use Python to solve problems and build projects, leveraging its simplicity to automate tasks, analyze data, and create applications. By exploring various libraries and frameworks, I continuously improve my skills and expand the scope of my projects.
 
+<p align="leftp">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  
 JavaScript
 I implement interactive features on websites, such as buttons, forms, and animations, to enhance user engagement and create a dynamic experience. Using technologies like JavaScript and jQuery, I design intuitive, responsive elements that make the website more interactive and enjoyable for users.
+
+
+
+<p align="leftp">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 
 CSS
 I focus on creating visually appealing website designs by selecting colors, typography, and imagery that enhance the user experience. By ensuring a cohesive layout and clear visual hierarchy, I aim to make the site both attractive and easy to navigate, improving engagement and functionality.
