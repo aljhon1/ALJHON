@@ -53,4 +53,3 @@ I implement interactive features on websites, such as buttons, forms, and animat
 
  CSS
 I focus on creating visually appealing website designs by selecting colors, typography, and imagery that enhance the user experience. By ensuring a cohesive layout and clear visual hierarchy, I aim to make the site both attractive and easy to navigate, improving engagement and functionality.
-
