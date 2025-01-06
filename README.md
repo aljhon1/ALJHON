@@ -42,10 +42,12 @@ I focus on creating visually appealing website designs by selecting colors, typo
 - Graphic Design
 
 ## Projects
+•System 
 ![Project Screenshot](Screenshot_20241204_132150.jpg)
+•Scratch 
+![Description](Screenshot_20250106_174633.jpg)
 
-- **[Project 1](#)**: Brief description of the project.
-- **[Project 2](#)**: Brief description of the project.
+  
 
 ## Contact
 - Email: aljhonindolos90k@gmail.com
